@@ -1,8 +1,5 @@
 {
   "name": "investeai-backend",
-  "engines": {
-  "node": "18.x"
-},
   "version": "1.0.0",
   "description": "Backend para InvesteAI - Agente de Investimentos Imobiliários com IA",
   "type": "module",
@@ -32,6 +29,6 @@
     "nodemon": "^3.0.1"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
